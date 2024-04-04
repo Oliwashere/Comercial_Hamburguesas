@@ -5,10 +5,33 @@ body, html{
     padding: 0;
     height: 100%;
 }
-
 .main{
     width: 1440px;
     height: 1024px;
     position: relative;
-    background-color: black;
+    background-color: #080C15;
+}
+.hambig{
+    position: absolute;
+    margin-left: 550px;
+}
+.hamini{
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 150px;
+}
+.rect1{
+    position: absolute;
+    margin-top: 850px;
+    margin-left: 150px;
+}
+.rect2{
+    position: absolute;
+    margin-top: 850px;
+    margin-left: 520px;
+}
+.rect3{
+    position: absolute;
+    margin-top: 850px;
+    margin-left: 890px;
 }
