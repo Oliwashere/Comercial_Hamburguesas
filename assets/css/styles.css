@@ -43,3 +43,11 @@ body, html{
     margin-top: 850px;
     margin-left: 890px;
 }
+.txt1{
+    position: absolute;
+    font-size: 64px;
+    font-family: "montserrat-b";
+    color: white;
+    margin-left: 150px;
+    margin-top: 180px ;
+}
