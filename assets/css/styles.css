@@ -68,3 +68,11 @@ body, html{
     margin-top: 700px;
     margin-left: 150px;
 }
+.txt3{
+    position: absolute;
+    font-size: 22px;
+    font-family: "montserrat-r";
+    color: white;
+    margin-left: 191px;
+    margin-top: 720px ;
+}
