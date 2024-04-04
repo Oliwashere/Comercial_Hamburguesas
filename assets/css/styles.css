@@ -84,3 +84,11 @@ body, html{
     margin-left: 191px;
     margin-top: 890px ;
 }
+.txt5{
+    position: absolute;
+    font-size: 24px;
+    font-family: "montserrat-r";
+    color: white;
+    margin-left: 560px;
+    margin-top: 890px ;
+}
