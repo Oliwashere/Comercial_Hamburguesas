@@ -59,3 +59,12 @@ body, html{
     margin-left: 150px;
     margin-top: 600px ;
 }
+.rectred{
+    position: absolute;
+    width: 280px;
+    height: 66px;
+    background-color: #c91b1b;
+    border-radius: 40px;
+    margin-top: 700px;
+    margin-left: 150px;
+}
